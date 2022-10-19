@@ -1,4 +1,6 @@
 #include "main.h"
+#include "stdio.h"
+
 /**
  * add - add two numbers
  * @a: the first number
@@ -7,5 +9,5 @@
  */
 int add(int a, int c)
 {
-	return (a + b);
+	return (a + c);
 }
