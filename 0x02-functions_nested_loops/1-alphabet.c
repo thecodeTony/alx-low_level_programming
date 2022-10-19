@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 /**
  * print_alphabet - prints in lower case
  */
